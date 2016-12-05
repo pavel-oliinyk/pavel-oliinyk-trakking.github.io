@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: 'quicksandbold';
+    src: url('../fonts/quicksandbold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksandbold_italic';
+    src: url('../fonts/quicksandbolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksanditalic';
+    src: url('../fonts/quicksanditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksandlight';
+    src: url('../fonts/quicksandlight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksandlight_italic';
+    src: url('../fonts/quicksandlightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksandregular';
+    src: url('../quicksandregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
